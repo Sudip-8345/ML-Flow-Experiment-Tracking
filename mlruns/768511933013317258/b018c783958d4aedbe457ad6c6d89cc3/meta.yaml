@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/PC/Desktop/MLops/ML-Flow-Experiment-Tracking/mlruns/768511933013317258/b018c783958d4aedbe457ad6c6d89cc3/artifacts
+end_time: 1748595582436
+entry_point_name: ''
+experiment_id: '768511933013317258'
+lifecycle_stage: active
+run_id: b018c783958d4aedbe457ad6c6d89cc3
+run_name: judicious-horse-818
+run_uuid: b018c783958d4aedbe457ad6c6d89cc3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748595582253
+status: 3
+tags: []
+user_id: PC

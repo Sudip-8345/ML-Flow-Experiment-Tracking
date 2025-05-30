@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/PC/Desktop/MLops/ML-Flow-Experiment-Tracking/mlruns/768511933013317258/f7d603dd5eae43b2ae02c1b97bebb779/artifacts
+end_time: 1748595582610
+entry_point_name: ''
+experiment_id: '768511933013317258'
+lifecycle_stage: active
+run_id: f7d603dd5eae43b2ae02c1b97bebb779
+run_name: abundant-cow-229
+run_uuid: f7d603dd5eae43b2ae02c1b97bebb779
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748595582475
+status: 3
+tags: []
+user_id: PC

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/PC/Desktop/MLops/ML-Flow-Experiment-Tracking/mlruns/768511933013317258/517e89681435407384a7e32401dd6ba1/artifacts
+end_time: 1748595582237
+entry_point_name: ''
+experiment_id: '768511933013317258'
+lifecycle_stage: active
+run_id: 517e89681435407384a7e32401dd6ba1
+run_name: glamorous-rook-723
+run_uuid: 517e89681435407384a7e32401dd6ba1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748595582147
+status: 3
+tags: []
+user_id: PC

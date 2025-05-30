@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/PC/Desktop/MLops/ML-Flow-Experiment-Tracking/mlruns/768511933013317258/624d5b613e7748fda9252c4679d590ba/artifacts
+end_time: 1748595581806
+entry_point_name: ''
+experiment_id: '768511933013317258'
+lifecycle_stage: active
+run_id: 624d5b613e7748fda9252c4679d590ba
+run_name: lyrical-mole-710
+run_uuid: 624d5b613e7748fda9252c4679d590ba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748595581702
+status: 3
+tags: []
+user_id: PC

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/PC/Desktop/MLops/ML-Flow-Experiment-Tracking/mlruns/768511933013317258/af335d9419ea495e981474303dfe975e/artifacts
+end_time: 1748595582019
+entry_point_name: ''
+experiment_id: '768511933013317258'
+lifecycle_stage: active
+run_id: af335d9419ea495e981474303dfe975e
+run_name: sincere-zebra-431
+run_uuid: af335d9419ea495e981474303dfe975e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748595581924
+status: 3
+tags: []
+user_id: PC

@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1748596756748
+current_stage: None
+description: ''
+last_updated_timestamp: 1748596756748
+name: Sudip-Model-1
+run_id: 87c3299da9d74c7b9be048116ccd19f1
+run_link: ''
+source: models:/Sudip-Model-1/1
+status: READY
+status_message: null
+storage_location: file:///C:/Users/PC/Desktop/MLops/ML-Flow-Experiment-Tracking/mlruns/768511933013317258/87c3299da9d74c7b9be048116ccd19f1/artifacts/random_forest
+user_id: null
+version: 2

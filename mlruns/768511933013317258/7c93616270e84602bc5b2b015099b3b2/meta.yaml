@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/PC/Desktop/MLops/ML-Flow-Experiment-Tracking/mlruns/768511933013317258/7c93616270e84602bc5b2b015099b3b2/artifacts
+end_time: 1748595583053
+entry_point_name: ''
+experiment_id: '768511933013317258'
+lifecycle_stage: active
+run_id: 7c93616270e84602bc5b2b015099b3b2
+run_name: dazzling-sheep-720
+run_uuid: 7c93616270e84602bc5b2b015099b3b2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748595582931
+status: 3
+tags: []
+user_id: PC

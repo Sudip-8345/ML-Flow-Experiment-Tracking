@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/PC/Desktop/MLops/ML-Flow-Experiment-Tracking/mlruns/768511933013317258/87c3299da9d74c7b9be048116ccd19f1/artifacts
+end_time: 1748595593559
+entry_point_name: ''
+experiment_id: '768511933013317258'
+lifecycle_stage: active
+run_id: 87c3299da9d74c7b9be048116ccd19f1
+run_name: enchanting-finch-650
+run_uuid: 87c3299da9d74c7b9be048116ccd19f1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748595572396
+status: 3
+tags: []
+user_id: PC
