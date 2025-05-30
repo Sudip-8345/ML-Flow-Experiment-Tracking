@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/27f35804525f479fa48bf5c0d4fea545/artifacts
+end_time: 1748584537484
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 27f35804525f479fa48bf5c0d4fea545
+run_name: nervous-fly-392
+run_uuid: 27f35804525f479fa48bf5c0d4fea545
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748584524246
+status: 3
+tags: []
+user_id: PC

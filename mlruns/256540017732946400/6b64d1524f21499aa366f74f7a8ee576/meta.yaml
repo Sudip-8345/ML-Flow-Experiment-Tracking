@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/256540017732946400/6b64d1524f21499aa366f74f7a8ee576/artifacts
+end_time: 1748588020330
+entry_point_name: ''
+experiment_id: '256540017732946400'
+lifecycle_stage: active
+run_id: 6b64d1524f21499aa366f74f7a8ee576
+run_name: wise-grub-297
+run_uuid: 6b64d1524f21499aa366f74f7a8ee576
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748588010813
+status: 3
+tags: []
+user_id: PC

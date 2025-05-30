@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/256540017732946400/9c24ee1403ee4682b0f4b78365d6522a/artifacts
+end_time: 1748592253561
+entry_point_name: ''
+experiment_id: '256540017732946400'
+lifecycle_stage: active
+run_id: 9c24ee1403ee4682b0f4b78365d6522a
+run_name: traveling-horse-776
+run_uuid: 9c24ee1403ee4682b0f4b78365d6522a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748592237515
+status: 3
+tags: []
+user_id: PC
